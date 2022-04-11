@@ -1,6 +1,6 @@
 {
   "Version": "1.0.2",
-  "ReleaseNotes": "OPA",
+  "ReleaseNotes": "OPA Testando",
   "UrlUpdate": "https://RPVIP.github.io/Update4g",
   "Sms": "https://RPVIP.github.io/UrlSms",
   "EmailFeedback": "3@gmail.com",
@@ -36,8 +36,19 @@
       "USER": "",
       "PASS": ""
     },
+{
+      "Name": "GRATIS br02 | MEGA",
+      "TYPE": "free",
+      "FLAG": "br.png",
+      "ServerIP": "br2.startnetvpn.online",
+      "CheckUser": "http://144.22.225.128:81/checkUser",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "",
+      "PASS": ""
+    },
     {
-      "Name": "GRATIS 02 | MEGA",
+      "Name": "GRATIS br03 | MEGA",
       "TYPE": "free",
       "FLAG": "br.png",
       "ServerIP": "free.rpssh.xyz",
