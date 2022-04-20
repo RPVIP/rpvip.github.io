@@ -1,6 +1,6 @@
 {
-  "Version": "1.0.2",
-  "ReleaseNotes": "OPA Testando 1.2.3..",
+  "Version": "1.0.3",
+  "ReleaseNotes": "BUG HOST CLARO ALTERADO CLARO TLS02..",
   "UrlUpdate": "https://RPVIP.github.io/Update4g",
   "Sms": "https://RPVIP.github.io/UrlSms",
   "EmailFeedback": "3@gmail.com",
@@ -143,9 +143,9 @@
     {
       "Name": "CLARO TLS 02",
       "FLAG": "claro",
-      "Payload": "GET ws://parceirosclaro.com.br HTTP/1.1\nHost: [app_host]\nUpgrade: WebSocket\n\n",
-      "SNI": "parceirosclaro.com.br",
-      "TlsIP": "parceirosclaro.com.br",
+      "Payload": "GET ws://content.akross.com.br HTTP/1.1\nHost: [app_host]\nUpgrade: WebSocket\n\n",
+      "SNI": "content.akross.com.br",
+      "TlsIP": "content.akross.com.br",
       "ProxyIP": "",
       "ProxyPort": "",
       "Info": "Tlsws"
