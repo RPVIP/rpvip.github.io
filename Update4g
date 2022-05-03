@@ -1,6 +1,6 @@
 {
-  "Version": "1.0.4",
-  "ReleaseNotes": "ESCOLHA A LETRA QUE COMEÇA SUA OPERADORA",
+  "Version": "1.0.5",
+  "ReleaseNotes": "ADICIONADO TIM NOVO",
   "UrlUpdate": "https://RPVIP.github.io/Update4g",
   "Sms": "https://RPVIP.github.io/UrlSms",
   "EmailFeedback": "3@gmail.com",
@@ -61,7 +61,7 @@
   ],
   "Networks": [
     {
-      "Name": " V PROXY 06",
+      "Name": " VIVO PROXY 06",
       "FLAG": "vivo",
       "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
@@ -71,7 +71,7 @@
       "Info": "Proxy"
     },
     {
-      "Name": "V TLS 80",
+      "Name": "VIVO TLS 80",
       "FLAG": "vivo",
       "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "[app_host]",
@@ -81,7 +81,7 @@
       "Info": "Tlsws"
     },
     {
-      "Name": "T PROXY 6",
+      "Name": "TIM PROXY 6",
       "FLAG": "tim",
       "Payload": "GET wss://mobilidade.cloud.caixa.gov.br [protocol][crlf]Host: [app_host][crlf]X-Forwarded-For: [app_host][crlf]Connection: Keep-Alive[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
@@ -91,17 +91,17 @@
       "Info": "Proxy"
     },
     {
-      "Name": "T TLS mobili",
+      "Name": "TIM TLS NOVA",
       "FLAG": "tim",
-      "Payload": "GET ws://mobilidade.cloud.caixa.gov.br HTTP/1.1\nHost: [app_host]\nUpgrade: WebSocket\n\n",
-      "SNI": "mobilidade.cloud.caixa.gov.br",
-      "TlsIP": "mobilidade.cloud.caixa.gov.br",
+      "Payload": "GET ws://emartim.com.br HTTP/1.1\nHost: [app_host]\nUpgrade: WebSocket\n\n",
+      "SNI": "emartim.com.br",
+      "TlsIP": "emartim.com.br",
       "ProxyIP": "",
       "ProxyPort": "",
       "Info": "Tlsws"
     },
     {
-      "Name": "T TLS virtual",
+      "Name": "Tim TLS virtual",
       "FLAG": "tim",
       "Payload": "GET wss://m.timbancavirtual.com.br/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "m.timbancavirtual.com.br",
@@ -111,7 +111,7 @@
       "Info": "Tlsws"
     },
     {
-      "Name": "T TLS CLOUD",
+      "Name": "Tim TLS CLOUD",
       "FLAG": "tim",
       "Payload": "GET wss://cdnjs.cloudflare.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "cdnjs.cloudflare.com",
@@ -121,7 +121,7 @@
       "Info": "Tlsws"
     },
     {
-      "Name": "T TLS 94",
+      "Name": "TIM TLS 94",
       "FLAG": "tim",
       "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "[app_host]",
@@ -131,7 +131,7 @@
       "Info": "Tlsws"
     },
     {
-      "Name": "C TLS mobile",
+      "Name": "CLARO TLS mobile",
       "FLAG": "claro",
       "Payload": "GET ws://mobilidade.cloud.caixa.gov.br HTTP/1.1\nHost: [app_host]\nUpgrade: WebSocket\n\n",
       "SNI": "mobilidade.cloud.caixa.gov.br",
@@ -141,7 +141,7 @@
       "Info": "Tlsws"
     },
     {
-      "Name": "C TLS ON",
+      "Name": "CLARO TLS ON",
       "FLAG": "claro",
       "Payload": "GET ws://no.descomplica.com.br HTTP/1.1\nHost: [app_host]\nUpgrade: WebSocket\n\n",
       "SNI": "no.descomplica.com.br",
@@ -151,7 +151,7 @@
       "Info": "Tlsws"
     },
     {
-      "Name": "C SSL 03",
+      "Name": "CLARO SSL 03",
       "FLAG": "claro",
       "Payload": "",
       "SNI": "dns.web.whatsapp.com",
@@ -161,7 +161,7 @@
       "Info": "Ssl"
     },
     {
-      "Name": "C SSL 04",
+      "Name": "CLARO SSL 04",
       "FLAG": "claro",
       "Payload": "",
       "SNI": "m.waze.com",
@@ -171,7 +171,7 @@
       "Info": "Ssl"
     },
     {
-      "Name": "C SSL 05",
+      "Name": "CLARO SSL 05",
       "FLAG": "claro",
       "Payload": "",
       "SNI": "web.whatsapp.com",
@@ -181,7 +181,7 @@
       "Info": "Ssl"
     },
     {
-      "Name": "C SSL 06",
+      "Name": "CLARO SSL 06",
       "FLAG": "claro",
       "Payload": "",
       "SNI": "m.twitter.com",
@@ -191,7 +191,7 @@
       "Info": "Ssl"
     },
     {
-      "Name": "O PROXY 6",
+      "Name": "Oi PROXY 6",
       "FLAG": "oi",
       "Payload": "GET / HTTP/1.1[crlf]Host: [host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
@@ -201,7 +201,7 @@
       "Info": "Proxy"
     },
     {
-      "Name": "O TLS mobile",
+      "Name": "OI TLS mobile",
       "FLAG": "oi",
       "Payload": "GET ws://mobilidade.cloud.caixa.gov.br HTTP/1.1\nHost: [app_host]\nUpgrade: WebSocket\n\n",
       "SNI": "mobilidade.cloud.caixa.gov.br",
