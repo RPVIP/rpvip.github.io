@@ -1,6 +1,6 @@
 {
-  "Version": "1.0.5",
-  "ReleaseNotes": "ADICIONADO TIM NOVO",
+  "Version": "1.0.6",
+  "ReleaseNotes": "ADICIONADO TIM E VIVO NOVO",
   "UrlUpdate": "https://RPVIP.github.io/Update4g",
   "Sms": "https://RPVIP.github.io/UrlSms",
   "EmailFeedback": "3@gmail.com",
@@ -81,14 +81,14 @@
       "Info": "Tlsws"
     },
     {
-      "Name": "TIM PROXY 6",
+      "Name": "VIVO SSL NOVA",
       "FLAG": "tim",
-      "Payload": "GET wss://mobilidade.cloud.caixa.gov.br [protocol][crlf]Host: [app_host][crlf]X-Forwarded-For: [app_host][crlf]Connection: Keep-Alive[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI": "",
-      "TlsIP": "",
-      "ProxyIP": "104.16.56.6",
-      "ProxyPort": "80",
-      "Info": "Proxy"
+      "Payload": "GET wss://gedoc.vivo.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "gedoc.vivo.com.br",
+      "TlsIP": "gedoc.vivo.com.br",
+      "ProxyIP": "gedoc.vivo.com.br",
+      "ProxyPort": "443",
+      "Info": "SSL"
     },
     {
       "Name": "TIM TLS NOVA",
