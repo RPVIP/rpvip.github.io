@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.8",
+  "Version": "1.0.9",
   "ReleaseNotes": "ADICIONADO NOVO VIVO🥳✅",
   "UrlUpdate": "https://RPVIP.github.io/Update4g",
   "Sms": "https://RPVIP.github.io/UrlSms",
@@ -203,11 +203,11 @@
     {
       "Name": "Oi PROXY 6",
       "FLAG": "oi",
-      "Payload": "GET / HTTP/1.1[crlf]Host: [host][crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI": "",
-      "TlsIP": "",
-      "ProxyIP": "104.16.56.6",
-      "ProxyPort": "80",
+      "Payload": "GET wss://www.hbogo.com.br HTTP/1.1[crlf]Host: [host][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "ww.hbogo.com.br",
+      "TlsIP": "www.hbogo.com.br",
+      "ProxyIP": "www.hbogo.com.br",
+      "ProxyPort": "443",
       "Info": "Proxy"
     },
     {
