@@ -1,6 +1,6 @@
 {
-  "Version": "1.0.10",
-  "ReleaseNotes": "ADICIONADO NOVO VIVO🥳✅",
+  "Version": "1.0.11",
+  "ReleaseNotes": "CLARO ATUALIZADA MAIS RAPIDA CLARO TLS ON🥳✅",
   "UrlUpdate": "https://RPVIP.github.io/Update4g",
   "Sms": "https://RPVIP.github.io/UrlSms",
   "EmailFeedback": "3@gmail.com",
@@ -18,10 +18,10 @@
       "Porta": "7300"
     },
     {
-      "Porta": "7600"
+      "Porta": "7300"
     },
     {
-      "Porta": "7700"
+      "Porta": "7300"
     }
   ],
   "Servers": [
@@ -153,11 +153,11 @@
     {
       "Name": "CLARO TLS ON",
       "FLAG": "claro",
-      "Payload": "GET ws://no.descomplica.com.br HTTP/1.1\nHost: [app_host]\nUpgrade: WebSocket\n\n",
-      "SNI": "no.descomplica.com.br",
+      "Payload": "GET wss://atendimento.descomplica.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: covid[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "SNI": "atendimento.descomplica.com.br",
       "TlsIP": "no.descomplica.com.br",
-      "ProxyIP": "",
-      "ProxyPort": "",
+      "ProxyIP": "atendimento.descomplica.com.br",
+      "ProxyPort": "443",
       "Info": "Tlsws"
     },
     {
