@@ -1,6 +1,6 @@
 {
-  "Version": "1.0.12",
-  "ReleaseNotes": "SERVIDOR BR02 OFF, USEM O BR03 🥳✅",
+  "Version": "1.0.13",
+  "ReleaseNotes": "NOVA PAYLOAD TIM TLS NOVA2 🥳✅",
   "UrlUpdate": "https://RPVIP.github.io/Update4g",
   "Sms": "https://RPVIP.github.io/UrlSms",
   "EmailFeedback": "3@gmail.com",
@@ -101,11 +101,11 @@
       "Info": "SSL"
     },
     {
-      "Name": "TIM TLS NOVA",
+      "Name": "TIM TLS NOVA 2",
       "FLAG": "tim",
-      "Payload": "GET ws://emartim.com.br HTTP/1.1\nHost: [app_host]\nUpgrade: WebSocket\n\n",
-      "SNI": "emartim.com.br",
-      "TlsIP": "emartim.com.br",
+      "Payload": "GET ws://beringtime.com HTTP/1.1\nHost: [app_host]\nUpgrade: WebSocket\n\n",
+      "SNI": "beringtime.com",
+      "TlsIP": "beringtime.com",
       "ProxyIP": "",
       "ProxyPort": "",
       "Info": "Tlsws"
