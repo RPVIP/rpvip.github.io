@@ -1,6 +1,6 @@
 {
-  "Version": "1.0.14",
-  "ReleaseNotes": "NOVA PAYLOAD TIM TLS NOVA2 🥳✅",
+  "Version": "1.0.15",
+  "ReleaseNotes": "REMOVIDO PAYLOADS OFF🥳✅",
   "UrlUpdate": "https://RPVIP.github.io/Update4g",
   "Sms": "https://RPVIP.github.io/UrlSms",
   "EmailFeedback": "3@gmail.com",
@@ -37,7 +37,7 @@
       "PASS": ""
     },
 {
-      "Name": "GRATIS br02 off | MEGA",
+      "Name": "GRATIS br02 OFF | MEGA",
       "TYPE": "free",
       "FLAG": "br.png",
       "ServerIP": "br2.startnetvpn.online",
@@ -48,7 +48,7 @@
       "PASS": ""
     },
     {
-      "Name": "GRATIS br03 | MEGA",
+      "Name": "GRATIS br03 OFF | MEGA",
       "TYPE": "free",
       "FLAG": "br.png",
       "ServerIP": "free.rpssh.xyz",
@@ -61,16 +61,6 @@
   ],
   "Networks": [
     {
-      "Name": " VIVO PROXY 06",
-      "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI": "",
-      "TlsIP": "",
-      "ProxyIP": "104.16.56.6",
-      "ProxyPort": "80",
-      "Info": "Proxy"
-    },
-    {
       "Name": "VIVO TLS 80",
       "FLAG": "vivo",
       "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
@@ -79,16 +69,6 @@
       "ProxyIP": "",
       "ProxyPort": "",
       "Info": "Tlsws"
-    },
-    {
-      "Name": "VIVO SSL NOVA",
-      "FLAG": "vivo",
-      "Payload": "GET wss://celular.vivo.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI": "celular.vivo.com.br",
-      "TlsIP": "celular.vivo.com.br",
-      "ProxyIP": "celular.vivo.com.br",
-      "ProxyPort": "443",
-      "Info": "SSL"
     },
     {
       "Name": "VIVO SSL NOVA2",
@@ -106,16 +86,6 @@
       "Payload": "GET ws://beringtime.com HTTP/1.1\nHost: [app_host]\nUpgrade: WebSocket\n\n",
       "SNI": "beringtime.com",
       "TlsIP": "beringtime.com",
-      "ProxyIP": "",
-      "ProxyPort": "",
-      "Info": "Tlsws"
-    },
-    {
-      "Name": "Tim TLS virtual",
-      "FLAG": "tim",
-      "Payload": "GET wss://m.timbancavirtual.com.br/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI": "m.timbancavirtual.com.br",
-      "TlsIP": "m.timbancavirtual.com.br",
       "ProxyIP": "",
       "ProxyPort": "",
       "Info": "Tlsws"
@@ -153,8 +123,8 @@
     {
       "Name": "CLARO TLS ON NOVA",
       "FLAG": "claro",
-      "Payload": "GET wss://atendimento.descomplica.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: covid[crlf]Connection: Keep-Alive[crlf][crlf]",
-      "SNI": "atendimento.descomplica.com.br",
+      "Payload": "GET wss://Atendimento.descomplica.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: covid[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "SNI": "Atendimento.descomplica.com.br",
       "TlsIP": "199.60.103.228",
       "ProxyIP": "",
       "ProxyPort": "",
