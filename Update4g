@@ -48,15 +48,15 @@
       "PASS": ""
     },
     {
-      "Name": "GRATIS br03 OFF | MEGA",
+      "Name": "GRATIS EMPRESTADO KK | MEGA",
       "TYPE": "free",
-      "FLAG": "br.png",
-      "ServerIP": "free.rpssh.xyz",
+      "FLAG": "ca.png",
+      "ServerIP": "www7.cocadaomega.tk",
       "CheckUser": "http://129.151.39.232:81/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
-      "USER": "",
-      "PASS": ""
+      "USER": "clro",
+      "PASS": "clro1"
     }
   ],
   "Networks": [
