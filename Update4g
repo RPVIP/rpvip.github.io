@@ -140,6 +140,16 @@
       "ProxyPort": "",
       "Info": "Tlsws"
     },
+       {
+      "Name": "CLARO TLS03 NOVA",
+      "FLAG": "claro",
+      "Payload": "GET wss://stage-corp.kaltura.com HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: covid[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "SNI": "stage-corp.kaltura.com",
+      "TlsIP": "stage-corp.kaltura.com",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "Info": "Tlsws"
+    },
     {
       "Name": "CLARO SSL 03",
       "FLAG": "claro",
