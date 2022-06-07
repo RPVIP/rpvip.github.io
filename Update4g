@@ -1,6 +1,6 @@
 {
-  "Version": "1.0.19",
-  "ReleaseNotes": "TIM ATUALIZADA TIM TLS NOVA🥳✅",
+  "Version": "1.0.20",
+  "ReleaseNotes": "NOVA CLARO ADICIONADA 🥳✅",
   "UrlUpdate": "https://RPVIP.github.io/Update4g",
   "Sms": "https://RPVIP.github.io/UrlSms",
   "EmailFeedback": "3@gmail.com",
@@ -126,6 +126,16 @@
       "Payload": "GET wss://No.descomplica.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: covid[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "No.descomplica.com.br",
       "TlsIP": "No.descomplica.com.br",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "Info": "Tlsws"
+    },
+    {
+      "Name": "CLARO TLS02 NOVA",
+      "FLAG": "claro",
+      "Payload": "GET wss://icanhazip.com HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: covid[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "SNI": "icanhazip.com",
+      "TlsIP": "icanhazip.com",
       "ProxyIP": "",
       "ProxyPort": "",
       "Info": "Tlsws"
