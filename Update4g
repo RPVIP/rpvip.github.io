@@ -1,6 +1,6 @@
 {
-  "Version": "1.0.17",
-  "ReleaseNotes": "CLARO TLS ON FUNCIONANDO 🥳✅",
+  "Version": "1.0.18",
+  "ReleaseNotes": "TIM ATUALIZADA TIM TLS NOVA🥳✅",
   "UrlUpdate": "https://RPVIP.github.io/Update4g",
   "Sms": "https://RPVIP.github.io/UrlSms",
   "EmailFeedback": "3@gmail.com",
@@ -81,11 +81,11 @@
       "Info": "SSL"
     },
     {
-      "Name": "TIM TLS NOVA 2",
+      "Name": "TIM TLS NOVA ",
       "FLAG": "tim",
-      "Payload": "GET ws://beringtime.com HTTP/1.1\nHost: [app_host]\nUpgrade: WebSocket\n\n",
-      "SNI": "beringtime.com",
-      "TlsIP": "beringtime.com",
+      "Payload": "GET ws://static.r4you.co HTTP/1.1\nHost: [app_host]\nUpgrade: WebSocket\n\n",
+      "SNI": "static.r4you.co",
+      "TlsIP": "104.26.5.175",
       "ProxyIP": "",
       "ProxyPort": "",
       "Info": "Tlsws"
