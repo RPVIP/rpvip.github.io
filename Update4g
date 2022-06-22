@@ -1,6 +1,6 @@
 {
-  "Version": "1.0.24",
-  "ReleaseNotes": "NOVA VIVO AJUSTADO  v24🥳✅",
+  "Version": "1.0.25",
+  "ReleaseNotes": "NOVA VIVO AJUSTADO  v25🥳✅",
   "UrlUpdate": "https://RPVIP.github.io/Update4g",
   "Sms": "https://RPVIP.github.io/UrlSms",
   "EmailFeedback": "3@gmail.com",
@@ -55,8 +55,8 @@
       "CheckUser": "http://129.151.39.232:81/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
-      "USER": "clro",
-      "PASS": "clro1"
+      "USER": "",
+      "PASS": ""
     }
   ],
   "Networks": [
@@ -75,8 +75,8 @@
       "FLAG": "vivo",
       "Payload": "GET wss://vigia.vivo.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "vigia.vivo.com.br",
-      "TlsIP": "vigia.vivo.com.br",
-      "ProxyIP": "vigia.vivo.com.br",
+      "TlsIP": "172.64.131.2",
+      "ProxyIP": "172.64.131.2",
       "ProxyPort": "443",
       "Info": "SSL"
     },
