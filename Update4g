@@ -63,7 +63,7 @@
     {
       "Name": "V TLS 80",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: d3vazlbs5cvjqs.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "d3vazlbs5cvjqs.cloudfront.net",
       "TlsIP": "live.vivo.com.br",
       "ProxyIP": "live.vivo.com.br",
