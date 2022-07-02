@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.36",
+  "Version": "1.0.37",
   "ReleaseNotes": "VIVO FUNCIONAL NA VERSÃO PREMIUM  v27🥳✅",
   "UrlUpdate": "https://RPVIP.github.io/Update4g",
   "Sms": "https://RPVIP.github.io/UrlSms",
@@ -29,7 +29,7 @@
       "Name": "MEGAVPN | MEGA",
       "TYPE": "premium",
       "FLAG": "br.png",
-      "ServerIP": "d3vazlbs5cvjqs.cloudfront.net",
+      "ServerIP": "megassh.rpssh.xyz",
       "CheckUser": "http://45.162.228.207:81/checkUser",
       "ServerPort": "443",
       "SSLPort": "443",
@@ -65,7 +65,7 @@
       "FLAG": "vivo",
       "Payload": "GET / HTTP/1.1[crlf]Host: d3vazlbs5cvjqs.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "d3vazlbs5cvjqs.cloudfront.net",
-      "TlsIP": "live.vivo.com.br",
+      "TlsIP": "d3vazlbs5cvjqs.cloudfront.net",
       "ProxyIP": "live.vivo.com.br",
       "ProxyPort": "443",
       "Info": "Tlsws"
