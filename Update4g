@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.33",
+  "Version": "1.0.35",
   "ReleaseNotes": "VIVO FUNCIONAL NA VERSÃO PREMIUM  v27🥳✅",
   "UrlUpdate": "https://RPVIP.github.io/Update4g",
   "Sms": "https://RPVIP.github.io/UrlSms",
@@ -31,7 +31,7 @@
       "FLAG": "br.png",
       "ServerIP": "d3vazlbs5cvjqs.cloudfront.net",
       "CheckUser": "http://45.162.228.207:81/checkUser",
-      "ServerPort": "80",
+      "ServerPort": "443",
       "SSLPort": "443",
       "USER": "",
       "PASS": ""
