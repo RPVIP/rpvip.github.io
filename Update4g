@@ -1,6 +1,6 @@
 {
-  "Version": "1.0.25",
-  "ReleaseNotes": "NOVA VIVO AJUSTADO  v25🥳✅",
+  "Version": "1.0.26",
+  "ReleaseNotes": "VIVO FUNCIONAL NA VERSÃO PREMIUM  v25🥳✅",
   "UrlUpdate": "https://RPVIP.github.io/Update4g",
   "Sms": "https://RPVIP.github.io/UrlSms",
   "EmailFeedback": "3@gmail.com",
@@ -29,7 +29,7 @@
       "Name": "MEGAVPN | MEGA",
       "TYPE": "premium",
       "FLAG": "br.png",
-      "ServerIP": "megassh.rpssh.xyz",
+      "ServerIP": "d3vazlbs5cvjqs.cloudfront.net",
       "CheckUser": "http://45.162.228.207:81/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
@@ -63,11 +63,11 @@
     {
       "Name": "V TLS 80",
       "FLAG": "vivo",
-      "Payload": "GET wss://celular.vivo.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI": "celular.vivo.com.br",
-      "TlsIP": "104.24.10.16",
-      "ProxyIP": "104.24.10.16",
-      "ProxyPort": "443",
+      "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "live.vivo.com.br",
+      "TlsIP": "live.vivo.com.br",
+      "ProxyIP": "live.vivo.com.br",
+      "ProxyPort": "80",
       "Info": "Tlsws"
     },
     {
