@@ -68,7 +68,7 @@
       "TlsIP": "live.vivo.com.br",
       "ProxyIP": "live.vivo.com.br",
       "ProxyPort": "80",
-      "Info": "ssh/proxy"
+      "Info": "Ssh/proxy"
     },
     {
       "Name": "V SSL NOVA2",
