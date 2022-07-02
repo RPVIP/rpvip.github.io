@@ -1,6 +1,6 @@
 {
-  "Version": "1.0.26",
-  "ReleaseNotes": "VIVO FUNCIONAL NA VERSÃO PREMIUM  v25🥳✅",
+  "Version": "1.0.27",
+  "ReleaseNotes": "VIVO FUNCIONAL NA VERSÃO PREMIUM  v27🥳✅",
   "UrlUpdate": "https://RPVIP.github.io/Update4g",
   "Sms": "https://RPVIP.github.io/UrlSms",
   "EmailFeedback": "3@gmail.com",
@@ -68,7 +68,7 @@
       "TlsIP": "live.vivo.com.br",
       "ProxyIP": "live.vivo.com.br",
       "ProxyPort": "80",
-      "Info": "Tlsws"
+      "Info": "proxy"
     },
     {
       "Name": "V SSL NOVA2",
