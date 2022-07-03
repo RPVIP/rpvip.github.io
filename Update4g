@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.39",
+  "Version": "1.0.40",
   "ReleaseNotes": "VIVO FUNCIONAL NA VERSÃO PREMIUM  v27🥳✅",
   "UrlUpdate": "https://RPVIP.github.io/Update4g",
   "Sms": "https://RPVIP.github.io/UrlSms",
@@ -80,7 +80,7 @@
       "ProxyPort": "443",
       "Info": "SSL"
     },
-{
+    {
       "Name": "V inject proxy",
       "FLAG": "vivo",
       "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
@@ -89,6 +89,16 @@
       "ProxyIP": "104.18.6.80",
       "ProxyPort": "80",
       "Info": "Proxy"
+    },
+    {
+      "Name": "V inject Ssl",
+      "FLAG": "vivo",
+      "Payload": "GET wss://carrinho-pos-familia.vivo.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "carrinho-pos-familia.vivo.com.br",
+      "TlsIP": "172.67.165.43",
+      "ProxyIP": "",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
     },
     {
       "Name": "T TLS NOVA ",
