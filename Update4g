@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.38",
+  "Version": "1.0.39",
   "ReleaseNotes": "VIVO FUNCIONAL NA VERSÃO PREMIUM  v27🥳✅",
   "UrlUpdate": "https://RPVIP.github.io/Update4g",
   "Sms": "https://RPVIP.github.io/UrlSms",
@@ -40,7 +40,7 @@
       "Name": "GRATIS br02 | MEGA",
       "TYPE": "free",
       "FLAG": "br.png",
-      "ServerIP": "br2.startnetvpn.online",
+      "ServerIP": "br2.denyssnett.xyz",
       "CheckUser": "http://br2.startnetvpn.online:81/checkUser",
       "ServerPort": "80",
       "SSLPort": "443",
