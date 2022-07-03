@@ -100,7 +100,7 @@
       "Info": "Tlsws"
     },
     {
-      "Name": "V inject Ssl",
+      "Name": "V inject PROXY",
       "FLAG": "vivo",
       "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
