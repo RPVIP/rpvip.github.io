@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.37",
+  "Version": "1.0.38",
   "ReleaseNotes": "VIVO FUNCIONAL NA VERSÃO PREMIUM  v27🥳✅",
   "UrlUpdate": "https://RPVIP.github.io/Update4g",
   "Sms": "https://RPVIP.github.io/UrlSms",
@@ -31,7 +31,7 @@
       "FLAG": "br.png",
       "ServerIP": "megassh.rpssh.xyz",
       "CheckUser": "http://45.162.228.207:81/checkUser",
-      "ServerPort": "443",
+      "ServerPort": "80",
       "SSLPort": "443",
       "USER": "",
       "PASS": ""
@@ -42,7 +42,7 @@
       "FLAG": "br.png",
       "ServerIP": "br2.startnetvpn.online",
       "CheckUser": "http://br2.startnetvpn.online:81/checkUser",
-      "ServerPort": "22",
+      "ServerPort": "80",
       "SSLPort": "443",
       "USER": "",
       "PASS": ""
@@ -73,12 +73,22 @@
     {
       "Name": "V SSL NOVA2",
       "FLAG": "vivo",
-      "Payload": "GET wss://vigia.vivo.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI": "vigia.vivo.com.br",
-      "TlsIP": "172.64.131.2",
-      "ProxyIP": "172.64.131.2",
+      "Payload": "GET wss://unpkg.com HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "unpkg.com",
+      "TlsIP": "172.67.165.43",
+      "ProxyIP": "172.67.165.43",
       "ProxyPort": "443",
       "Info": "SSL"
+    },
+{
+      "Name": "V SSL NOVA2",
+      "FLAG": "vivo",
+      "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "104.18.6.80",
+      "ProxyIP": "104.18.6.80",
+      "ProxyPort": "80",
+      "Info": "Proxy"
     },
     {
       "Name": "T TLS NOVA ",
