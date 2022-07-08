@@ -67,7 +67,7 @@
       "TlsIP": "172.67.165.43",
       "ProxyIP": "172.67.165.43",
       "ProxyPort": "443",
-      "Info": "SSL"
+      "Info": "Tlsws"
     },
     {
       "Name": "V inject proxy",
