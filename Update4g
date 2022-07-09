@@ -1,6 +1,6 @@
 {
-  "Version": "1.0.43",
-  "ReleaseNotes": "VIVO FUNCIONAL NA VERSÃO PREMIUM  v27🥳✅",
+  "Version": "1.0.44",
+  "ReleaseNotes": "VIVO FUNCIONAL FREE/PREMIUM  v44🥳✅",
   "UrlUpdate": "https://RPVIP.github.io/Update4g",
   "Sms": "https://RPVIP.github.io/UrlSms",
   "EmailFeedback": "3@gmail.com",
@@ -52,9 +52,9 @@
     {
       "Name": "V TLS 80",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: d3vazlbs5cvjqs.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
-      "SNI": "d3vazlbs5cvjqs.cloudfront.net",
-      "TlsIP": "d3vazlbs5cvjqs.cloudfront.net",
+      "Payload": "GET / HTTP/1.1[crlf]Host: megassh.rpssh.xyz[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "SNI": "live.vivo.com.br",
+      "TlsIP": "104.21.11.51",
       "ProxyIP": "live.vivo.com.br",
       "ProxyPort": "443",
       "Info": "Tlsws"
