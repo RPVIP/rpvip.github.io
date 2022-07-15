@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.47",
+  "Version": "1.0.48",
   "ReleaseNotes": "VIVO FUNCIONAL FREE/PREMIUM  NECESSÁRIO ALGUNS MODO AVIAO v45🥳✅",
   "UrlUpdate": "https://RPVIP.github.io/Update4g",
   "Sms": "https://RPVIP.github.io/UrlSms",
@@ -116,6 +116,16 @@
       "SNI": "unpkg.com",
       "TlsIP": "unpkg.com",
       "ProxyIP": "unpkg.com",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+    },
+ {
+      "Name": "V Ssl inject",
+      "FLAG": "vivo",
+      "Payload": "GET ssl://vivo360.vivo.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Connection: upgrade[crlf]Proxy-Connection: keep-alive[crlf]Upgrade: websocket, HTTP/3.0[crlf]Sec-WebSocket-Extensions: superspeed[crlf][crlf]",
+      "SNI": "vivo360.vivo.com.br",
+      "TlsIP": "104.21.11.51",
+      "ProxyIP": "104.21.11.51",
       "ProxyPort": "443",
       "Info": "Tlsws"
     },
