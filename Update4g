@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.50",
+  "Version": "1.0.51",
   "ReleaseNotes": "CLARO EM MODO AVIÃO ATE PEGAR , C TLS04 MODO AVIÃO testem v50🥳✅",
   "UrlUpdate": "https://RPVIP.github.io/Update4g",
   "Sms": "https://RPVIP.github.io/UrlSms",
@@ -82,12 +82,12 @@
     {
       "Name": "V inject proxy2",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI": "",
+      "Payload": "GET wss://legado.vivo.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "legado.vivo.com.br",
       "TlsIP": "104.21.11.51",
       "ProxyIP": "104.21.11.51",
-      "ProxyPort": "80",
-      "Info": "Proxy"
+      "ProxyPort": "443",
+      "Info": "Tlsws"
     },
     {
       "Name": "V inject EASY ssl",
