@@ -1,6 +1,6 @@
 {
-  "Version": "1.0.49",
-  "ReleaseNotes": "VIVO FUNCIONAL FREE/PREMIUM  NECESSÁRIO ALGUNS MODO AVIAO v45🥳✅",
+  "Version": "1.0.50",
+  "ReleaseNotes": "CLARO EM MODO AVIÃO ATE PEGAR , C TLS04 MODO AVIÃO testem v50🥳✅",
   "UrlUpdate": "https://RPVIP.github.io/Update4g",
   "Sms": "https://RPVIP.github.io/UrlSms",
   "EmailFeedback": "3@gmail.com",
@@ -162,9 +162,9 @@
     {
       "Name": "C TLS content On",
       "FLAG": "claro",
-      "Payload": "GET ws://content.akross.com.br HTTP/1.1\nHost: [app_host]\nUpgrade: WebSocket\n\n",
-      "SNI": "content.akross.com.br",
-      "TlsIP": "content.akross.com.br",
+      "Payload": "GET ws://Content.akross.com.br HTTP/1.1\nHost: [app_host]\nUpgrade: WebSocket\n\n",
+      "SNI": "Content.akross.com.br",
+      "TlsIP": "Content.akross.com.br",
       "ProxyIP": "",
       "ProxyPort": "",
       "Info": "Tlsws"
@@ -199,15 +199,15 @@
       "ProxyPort": "",
       "Info": "Tlsws"
     },
-    {
-      "Name": "C SSL 03",
+        {
+      "Name": "C TLS04 (modo avião)",
       "FLAG": "claro",
-      "Payload": "",
-      "SNI": "dns.web.whatsapp.com",
-      "TlsIP": "",
+      "Payload": "GET wss://www.icanhazip.com HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: covid[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "SNI": "www.icanhazip.com",
+      "TlsIP": "www.icanhazip.com",
       "ProxyIP": "",
       "ProxyPort": "",
-      "Info": "Ssl"
+      "Info": "Tlsws"
     },
     {
       "Name": "C SSL 04",
