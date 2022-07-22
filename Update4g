@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.51",
+  "Version": "1.0.52",
   "ReleaseNotes": "CLARO EM MODO AVIÃO ATE PEGAR , C TLS04 MODO AVIÃO testem v50🥳✅",
   "UrlUpdate": "https://RPVIP.github.io/Update4g",
   "Sms": "https://RPVIP.github.io/UrlSms",
@@ -52,7 +52,7 @@
     {
       "Name": "V TLS 80",
       "FLAG": "vivo",
-      "Payload": "GET sni://belis.sk HTTP/1.1[crlf]Host: megassh.rpssh.xyz[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "Payload": "GET sni://belis.sk HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "belis.sk",
       "TlsIP": "104.21.11.51",
       "ProxyIP": "belis.sk",
